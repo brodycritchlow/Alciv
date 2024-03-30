@@ -1,18 +1,17 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
+		"name": "Drunkards",
+		"leaderName": "Bartholomew Barrelsworth",
+		"adjective": ["drunk"],
 		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Time",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Welcome to the whimsical land of Drunkards, where every pour tells a tale and every stumble holds a secret! In this merry realm, where the rivers flow with wine and the clouds rain beer, lies the proud nation of Drunkards—a place where the national anthem is the clinking of glasses, and the constitution is written on cocktail napkins. From the humblest tavern to the grandest brewery, the people of Drunkards celebrate the art of imbibing with unrivaled passion and a knack for turning water into wine (or preferably, something stronger). So raise your glasses and join us in a toast to Drunkards, where the hangovers may be brutal but the memories are legendary! Cheers to laughter, libations, and the pursuit of the perfect pint!",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "Oops, didn't mean to do that!",
+		"attacked": "Who, what, wh-? Oh you devil!",
+		"defeated": "We were distracted, this was an unfair fight!",
+		"introduction": "Welcome to the whimsical land of Drunkards, where every pour tells a tale and every stumble holds a secret! In this merry realm, where the rivers flow with wine and the clouds rain beer, lies the proud nation of Drunkards—a place where the national anthem is the clinking of glasses, and the constitution is written on cocktail napkins. From the humblest tavern to the grandest brewery, the people of Drunkards celebrate the art of imbibing with unrivaled passion and a knack for turning water into wine (or preferably, something stronger). So raise your glasses and join us in a toast to Drunkards, where the hangovers may be brutal but the memories are legendary! Cheers to laughter, libations, and the pursuit of the perfect pint!.",
 		
 		"neutralHello": "How are you doing?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
@@ -27,12 +26,30 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [95,56,11],
+		"innerColor": [100,57,0],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"cities": [
+		    "Tipsyville",
+		    "Brewburgh",
+		    "Alechester",
+		    "Winehaven",
+		    "Spiritsburg",
+		    "Lagerfield",
+		    "Whiskeyville",
+		    "Hopsville",
+		    "Vineyardia",
+		    "Ginburg",
+		    "Rumville",
+		    "Tequilatown",
+		    "Ciderfield",
+		    "Meadtown",
+		    "Barleytown",
+		    "Sippington",
+		    "Stoutshire",
+		    "Boozeburg",
+		    "Draughton",
+		    "Maltfield"
+		]
 	}
 ]
