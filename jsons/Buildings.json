@@ -1,25 +1,53 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
-		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"name": "Distilery",
+		"uniqueTo": "Drunkards",
+		"cost": 100,
+		"happiness": 3,
+		"culture": 8,
+		"maintenance": 15,
+		"isNationalWonder": false,
+		"requiredTech": "Distillation"
 	},
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
-	}
+		"name": "National Distilery",
+		"uniqueTo": "Drunkards",
+		"cost": 480,
+		"happiness": 10,
+		"culture": 12,
+		"science": 3,
+		"maintenance": 100,
+		"isNationalWonder": true,
+		"requiredBuildingInAllCities": "Distilery",
+	},
+	{
+		"name": "Fermenter",
+		"uniqueTo": "Drunkards",
+		"cost": 85,
+		"happiness": 3,
+		"culture": 8,
+		"maintenance": 15,
+		"isNationalWonder": false,
+		"requiredTech": "Fermenting"
+	},
+	{
+		"name": "Vineyard",
+		"uniqueTo": "Drunkards",
+		"cost": 240,
+		"happiness": 5,
+		"culture": 8,
+		"maintenance": 25,
+		"isNationalWonder": false,
+		"requiredTech": "Wines"
+	},
+	{
+		"name": "Winery",
+		"uniqueTo": "Drunkards",
+		"cost": 280,
+		"happiness": 7,
+		"culture": 8,
+		"maintenance": 15,
+		"isNationalWonder": false,
+		"requiredTech": "Wines"
+	},
 ]
